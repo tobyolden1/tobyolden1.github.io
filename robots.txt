@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://microsoft.thegrizzlylabs.com/sitemap.xml.gz
+Sitemap: http://dev.simssa.ca/sitemap.xml.gz
