@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://microsoft.thegrizzlylabs.com/sitemap.xml.gz
